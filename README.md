@@ -18,12 +18,16 @@ Exekutagarria instalatzeko, beharrezkoa da:
    
 2. **Fitxategiak Kopiatu**  
    `Thingsboardera.bat`, `DALL_E_2024-09-24_13.53.ico`, `AplikazioaBIO.py`, eta `readme.md` fitxategiak karpeta horretan gorde.
-   
+
+![Nire proiektuaren logoa](irudiak/02.png)
+
 3. **Lasterbidea Sortu**  
    `Thingsboardera.bat` artxiboaren lasterbide bat sortu mahaigainean.
    
 4. **Ikonoa Ezarri**  
    Lasterbideari `DALL_E_2024-09-24_13.53.ico` ikonoa ezarri.
+
+![Nire proiektuaren logoa](irudiak/03.png)
 
 ## EXCEL Artxiboak Prestatzeko
 
