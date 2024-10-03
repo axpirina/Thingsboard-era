@@ -12,9 +12,7 @@ Exekutagarria instalatzeko, beharrezkoa da:
 ## Instalazio Instrukzioak
 
 1. **Karpeta Sortu**  
-   `c:/programfiles` karpetan **Thingsboardera** izeneko karpeta sortu.
-
-## Karpeta
+   `c:/ProgramFiles` karpetan **Thingsboardera** izeneko karpeta sortu.
 
 ![Nire proiektuaren logoa](irudiak/01.png)
    
