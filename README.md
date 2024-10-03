@@ -13,6 +13,10 @@ Exekutagarria instalatzeko, beharrezkoa da:
 
 1. **Karpeta Sortu**  
    `c:/programfiles` karpetan **Thingsboardera** izeneko karpeta sortu.
+
+## Karpeta
+
+![Nire proiektuaren logoa](irudiak/01.png)
    
 2. **Fitxategiak Kopiatu**  
    `Thingsboardera.bat`, `DALL_E_2024-09-24_13.53.ico`, `AplikazioaBIO.py`, eta `readme.md` fitxategiak karpeta horretan gorde.
