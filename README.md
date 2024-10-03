@@ -36,3 +36,6 @@ Exekutagarria instalatzeko, beharrezkoa da:
 
    ```excel
    =INT(B2 - DATA(1970; 1; 1)) * 86400 + MOD(B2; 1) * 86400
+
+4. **csv formatuan gorde**  
+   Ezkerrean zutabe berri bat sortu `"ts"` izenarekin.
