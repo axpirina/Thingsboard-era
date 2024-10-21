@@ -29,7 +29,6 @@ def convert_csv_to_json():
         # JSON fitxategiaren bidea lortu
         json_file_path = os.path.splitext(csv_file_path)[0] + ".json"
         
-        # CSV datuak JSON formatua egokitu
         json_data = format_csv_to_json(df)
 
         # JSON fitxategian gorde
@@ -133,8 +132,6 @@ status_text.pack(padx=10, pady=10)
 
 # Tkinter aplikazioa martxan jarri
 root.mainloop()
-
-
 
 
 
